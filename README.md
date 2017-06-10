@@ -20,7 +20,7 @@ Be sure you have jdk1.7, android-ndk-r10 and android-sdk SDK 21 and 21.0.+ build
 [conky]: http://www.conky.com
 [samples]: http://teneighty.github.com/moss/samples.html
 
-##### Some modifications by ohnonot:  
+#### Some modifications by ohnonot:  
 had to edit some files to make it compile on my system (archlinux, june 2017).  
 Then I added my custom configuration (Ming Configuration).
 Because on phone bootup, moss would not load an installed patch from the sdcard.  
