@@ -32,9 +32,8 @@ list of files originally changed in first commit:
 	modified:   build.gradle
 	modified:   gradle.properties
 	modified:   gradle/wrapper/gradle-wrapper.properties
+	new file:   moss/src/main/assets/ming.conf
 	modified:   moss/src/main/java/org/mosspaper/PackageDatabase.java
 	modified:   moss/src/main/java/org/mosspaper/util/Graph.java
 	modified:   moss/src/main/res/values/arrays.xml
 	modified:   moss/src/main/res/values/strings.xml
-
-
