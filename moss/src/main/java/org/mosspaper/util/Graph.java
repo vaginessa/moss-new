@@ -68,7 +68,7 @@ public class Graph {
         env.setLineHeight(height);
 
         /* Draw Outline */
-        env.getCanvas().drawRect(x, y, maxX, maxY, p);
+        //~ env.getCanvas().drawRect(x, y, maxX, maxY, p);
 
         p.setStyle(Style.FILL);
 

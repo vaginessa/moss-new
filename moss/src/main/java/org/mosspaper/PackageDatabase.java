@@ -75,6 +75,13 @@ public class PackageDatabase extends SQLiteOpenHelper {
         c4.confFile = "full.conf";
         c4.asset = true;
         storePackage(db, c4);
+
+        Package c5 = new Package();
+        c4.name = mContext.getString(R.string.config_ming);
+        c4.desc = mContext.getString(R.string.config_ming_desc);
+        c4.confFile = "ming.conf";
+        c4.asset = true;
+        storePackage(db, c4);
     }
 
     @Override
