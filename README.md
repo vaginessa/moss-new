@@ -37,3 +37,9 @@ list of files originally changed in first commit:
 	modified:   moss/src/main/java/org/mosspaper/util/Graph.java
 	modified:   moss/src/main/res/values/arrays.xml
 	modified:   moss/src/main/res/values/strings.xml
+
+#### Precompiled & unsigned .apk now included
+
+It came to my attention that moss might not be available anymore either from f-droid or the google playstore.
+Therefore I'm adding the compiled result from this fork: `moss-debug.apk`  
+To install it, I guess you have to enable Settings => Security => Unknown sources.
